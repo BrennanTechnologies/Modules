@@ -17,7 +17,7 @@ Requires modules.
 ```
 
 ## Author ##
-Chris Brennan
+Chris Brennan, Contract Developer
 
 [Brennan Technologies](https://www.brennantechnologies.com)
 

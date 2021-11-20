@@ -22,9 +22,9 @@ Chris Brennan
 
 [Brennan Technologies](https://www.brennantechnologies.com)
 
-email   : mailto:cbrennan@brennantechnologies.com
+mailto:cbrennan@brennantechnologies.com
 
-website : https://www.brennantechnologies.com
+https://www.brennantechnologies.com
 
 ## Copyright ##
 Copyright = &copy; (c) 2021 Brennan Technologies. "All rights reserved, Use with Permission Only"

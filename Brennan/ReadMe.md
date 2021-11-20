@@ -24,6 +24,9 @@ Chris Brennan
 Brennan Technologies
 mailto:cbrennan@brennantechnologies.com
 https://www.brennantechnologies.com
+
+[`https://www.brennantechnologies.com`](https://www.brennantechnologies.com).
+
 ```
     
 ## Copyright ##

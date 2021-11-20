@@ -10,7 +10,8 @@
 	https://www.brennantechnologies.com
 
 	v.11.19.21
-	Copyright = '(c) 2021 Brennan Technologies. "All rights reserved, Use with Permission Only"
+    
+    Copyright = (c) 2021 Brennan Technologies. "All rights reserved, for Use with Permission Only"
 #>
 
 function Set-PSModulePath {

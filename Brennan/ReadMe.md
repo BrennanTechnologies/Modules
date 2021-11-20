@@ -16,7 +16,7 @@ Requires modules.
     RequiredModules = @('Brennan')
 ```
 
-### Author ###
+#### Author ####
 Chris Brennan, Contract Developer
 
 [Brennan Technologies](https://www.brennantechnologies.com)
@@ -25,7 +25,7 @@ mailto:cbrennan@brennantechnologies.com
 
 https://www.brennantechnologies.com
 
-### Copyright ###
+###### Copyright ######
 &copy; 2021 Brennan Technologies. "All rights reserved, for Use with Permission Only"
 	
 

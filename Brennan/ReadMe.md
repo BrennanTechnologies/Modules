@@ -3,32 +3,32 @@
 ## Module Name: ##
 Brennan.psm1
 
-### Description ###
+### Description: ###
 Boot Strap Module
 
-### Version ###
+### Version: ###
 v.11.19.21
 
-### Requirements ###
+### Requirements: ###
 Requires modules.
 
 ```
     RequiredModules = @('Brennan')
 ```
 
-#### Author ####
-    Chris Brennan
-    *Contract Developer*
-    **Brennan Technologies**
+#### Author: ####
+Chris Brennan
 
-#### Contact ####
 [Brennan Technologies](https://www.brennantechnologies.com)
+
+#### Contact: ####
+
 
 mailto:cbrennan@brennantechnologies.com
 
 https://www.brennantechnologies.com
 
-###### Copyright ######
+###### Copyright: ######
 &copy; 2021 Brennan Technologies. "All rights reserved, for Use with Permission Only"
 	
 

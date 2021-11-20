@@ -1,7 +1,7 @@
 ### Brennan.ps1
 
 <#
-	### Boot Strap Script
+	### Boot Strap Script - "Login Script"
 	###------------------------------------------------
 
 	Chris Brennan
@@ -10,9 +10,10 @@
 	https://www.brennantechnologies.com
 
 	v.11.19.21
+	Copyright = '(c) 2021 Brennan Technologies. "All rights reserved, Use with Permission Only
 #>
 
-function Set-ModulePath {
+function Set-PSModulePath {
 	[CmdletBinding()]
 	param (
 		[Parameter()]
@@ -106,11 +107,10 @@ function Import-RequiredModules {
 ### Run the script
 &{
 	begin {
-
-		### Set-ModulePath
+		### Set-PSModulePath
 		###------------------------------------------------
 		$modulePaths = "C:\Users\brenn\OneDrive\___CB Docs\_PowerShell\WindowsPowerShell\Modules"
-		Set-ModulePath -ModulePaths  $modulePaths                               ### Modify $PSModulepath:   Adds Custom $PSModulepath, removes UNC paths
+		Set-PSModulePath -ModulePaths  $modulePaths                               ### Modify $PSModulepath:   Adds Custom $PSModulepath, removes UNC paths
 
 		### Import-RequiredModules                                              ### Imports an array of Custom modules
 		###------------------------------------------------

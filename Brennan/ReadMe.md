@@ -11,24 +11,21 @@ Boot Strap Module
 v.11.19.21
 
 ## Requirements ##
-Requires the Brennan module.
+Requires modules.
 
-```powershell
-RequiredModules = @('Brennan')
 ```
-
+    RequiredModules = @('Brennan')
+```
 
 ## Author ##
-```
 Chris Brennan
-Brennan Technologies
-mailto:cbrennan@brennantechnologies.com
-https://www.brennantechnologies.com
 
-[`https://www.brennantechnologies.com`](https://www.brennantechnologies.com).
+[Brennan Technologies](https://www.brennantechnologies.com)
 
-```
-    
+email   : mailto:cbrennan@brennantechnologies.com
+
+website : https://www.brennantechnologies.com
+
 ## Copyright ##
 Copyright = &copy; (c) 2021 Brennan Technologies. "All rights reserved, Use with Permission Only"
 	

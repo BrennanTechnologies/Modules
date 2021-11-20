@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/BrennanTechnologies/Modules/083860eb4dbd9a6ec02a8fd51db2847c8abf3a66/Brennan/Docs/ps_black_64.svg?token=AFQIKIAEIPQPHB5DSHKBYIDBTBPKU)
-# Brennan Technologies #
+# ![](Docs/ps_black_64.svg) Brennan Technologies #
 
 ## Module Name: ##
 Brennan.psm1

@@ -12,8 +12,9 @@ v.11.19.21
 ### Requirements: ###
 Requires modules.
 
-    $RequiredModules = @('Brennan')
-
+```powershell
+$RequiredModules = @('Brennan')
+```
 
 #### Author: ####
 Chris Brennan

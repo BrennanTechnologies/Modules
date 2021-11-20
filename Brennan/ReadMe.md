@@ -1,15 +1,36 @@
+![](https://raw.githubusercontent.com/BrennanTechnologies/Modules/083860eb4dbd9a6ec02a8fd51db2847c8abf3a66/Brennan/Docs/ps_black_64.svg?token=AFQIKIAEIPQPHB5DSHKBYIDBTBPKU)
+# Brennan Technologies
 
-# ![logo][] Brennan Technologies
+## Module Name:
+Brennan.psm1
 
-	### Boot Strap Module
-	###------------------------------------------------
+### Description ###
+Boot Strap Module
 
-	Chris Brennan
-	Brennan Technologies
-	<a href=mailto:cbrennan@brennantechnologies.com>
-	https://www.brennantechnologies.com
+## Version
+v.11.19.21
 
-	v.11.19.21
+### Requirements ###
+Requires the Brennan module.
+
+```powershell
+Import-Brennan
+
+RequiredModules = @('Brennan')
+```
+
+
+## Author
+    Chris Brennan
+    Brennan Technologies
+    mailto:cbrennan@brennantechnologies.com
+    https://www.brennantechnologies.com
+    
+### Copyright
+
+
+Copyright = &copy; (c) 2021 Brennan Technologies. "All rights reserved, Use with Permission Only"
 	
-	[logo]: https://github.com/BrennanTechnologies/Modules/blob/master/Brennan/Docs/ps_black_64.svg
+
+	
 	

@@ -6,11 +6,11 @@
 
 	Chris Brennan
 	Brennan Technologies
-	<a href=mailto:cbrennan@brennantechnologies.com>
+	mailto:cbrennan@brennantechnologies.com
 	https://www.brennantechnologies.com
 
 	v.11.19.21
-	Copyright = '(c) 2021 Brennan Technologies. "All rights reserved, Use with Permission Only
+	Copyright = '(c) 2021 Brennan Technologies. "All rights reserved, Use with Permission Only"
 #>
 
 function Set-PSModulePath {

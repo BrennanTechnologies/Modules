@@ -11,6 +11,5 @@
 
 	v.11.19.21
 	
-	[logo]: https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true
-	
+	[logo]: https://github.com/BrennanTechnologies/Modules/blob/master/Brennan/Docs/ps_black_64.svg
 	

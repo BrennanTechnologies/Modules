@@ -17,8 +17,11 @@ Requires modules.
 ```
 
 #### Author ####
-Chris Brennan, Contract Developer
+    Chris Brennan
+    *Contract Developer*
+    **Brennan Technologies**
 
+#### Contact ####
 [Brennan Technologies](https://www.brennantechnologies.com)
 
 mailto:cbrennan@brennantechnologies.com

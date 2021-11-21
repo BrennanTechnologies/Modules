@@ -29,7 +29,7 @@ mailto:cbrennan@brennantechnologies.com
 https://www.brennantechnologies.com
 
 ###### Copyright: ######
-&copy; 2021 Brennan Technologies. "All rights reserved, for Use with Permission Only"
+&copy; 2021 Brennan Technologies, LLC "All rights reserved, for Use with Permission Only"
 	
 
 	

@@ -175,7 +175,7 @@
 	CompanyName = 'Brennan Technologies'
 
 	# Copyright statement for this module
-	Copyright = '(c) 2021 Brennan Technologies. Use with permission only.'
+	Copyright = '(c) 2021 Brennan Technologies, LLC Use with permission only.'
 
 	
 	

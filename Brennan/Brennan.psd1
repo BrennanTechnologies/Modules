@@ -11,7 +11,7 @@
 
 	v.11.19.21
 
-    Copyright = (c) 2021 Brennan Technologies. "All rights reserved, for Use with Permission Only"
+    Copyright = (c) 2021 Brennan Technologies, LLC. "All rights reserved, for Use with Permission Only"
 #>
 
 @{
@@ -179,7 +179,7 @@
 	CompanyName = 'Brennan Technologies'
 
 	# Copyright statement for this module
-	Copyright = '(c) 2021 Brennan Technologies. "All rights reserved, Use with Permission Only"'
+	Copyright = '(c) 2021 Brennan Technologies, LLC "All rights reserved, Use with Permission Only"'
 
 	
 	

@@ -158,8 +158,6 @@ function Import-RequiredModules {
 			,
 			"Schwab.VCE"
 		)
-
-		### Import-RequiredModules                                              ### Manually import VMWare modules as needed
 		Import-RequiredModules -RequiredModules $RequiredModules -Force
 
 		### Import VMWare Modules                                               ### Skip  if already loaded
@@ -168,7 +166,7 @@ function Import-RequiredModules {
 				Write-Host "Importing VMWare Modules" -ForegroundColor Magenta
 				#Get-Module vmware.vim* -ListAvailable | Import-Module
 			}
-		} #Import-VMWareModules
+		} Import-VMWareModules
 		
 
 	}

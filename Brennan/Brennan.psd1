@@ -65,7 +65,7 @@
 			Example: RequiredModules = @("MyModule", @{ModuleName="MyDependentModule"; RequiredVersion="1.5"; GUID="cfc45206-1e49-459d-a8ad-5b571ef94857"})
 	#>
 	RequiredModules = @(
-		"Brennan"
+		#"Brennan"
 		#,
 		#"Brennan.Core"
 		#,

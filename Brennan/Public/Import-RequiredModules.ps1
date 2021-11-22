@@ -3,7 +3,7 @@ function Import-RequiredModules {
     param (
         [Parameter()]
         [string[]]
-        $RequiredModules = @(
+        $requiredModules = @(
             #"Brennan"
             "Brennan.Core"
         )

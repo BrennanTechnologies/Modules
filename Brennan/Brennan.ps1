@@ -8,7 +8,7 @@
 	11.20.22
 
 	RequiredModules:
-	$RequiredModules = @("Brennan")
+	$requiredModules = @("Brennan")
 
 	Author:
 	Chris Brennan
@@ -70,7 +70,7 @@ function Import-RequiredModules {
 	param (
 		[Parameter()]
 		[string[]]
-		$RequiredModules = @(
+		$requiredModules = @(
 			"Brennan"
 			#,
 			#"Brennan.Core"
@@ -121,7 +121,7 @@ function Import-RequiredModules {
 
 		### Import-RequiredModules                                              	### Imports an array of Custom modules
 		###------------------------------------------------
-		[string[]]$RequiredModules = @(
+		[string[]]$requiredModules = @(
 			"Brennan"
 			#,
 			#"Schwab.VCE"
@@ -161,7 +161,7 @@ function Import-RequiredModules {
 	param (
 		[Parameter()]
 		[string[]]
-		$RequiredModules = @(
+		$requiredModules = @(
 			"Brennan"
 			"Brennan.Core",
 			"Brennan.CodeSigning"
@@ -187,7 +187,7 @@ function Import-RequiredModules {
 }
 
 
-[string[]]$RequiredModules = @(
+[string[]]$requiredModules = @(
 	#"Brennan"
 	"Brennan.Core",
 	"Brennan.CodeSigning",
